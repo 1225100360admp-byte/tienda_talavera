@@ -1,0 +1,2 @@
+TALAVERA DOLORES - guía de etapas (TDD)
+Copia cada carpeta ENCIMA de tu proyecto tienda_talavera (se fusionan lib/ y test/).
